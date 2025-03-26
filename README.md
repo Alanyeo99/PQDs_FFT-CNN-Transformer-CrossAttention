@@ -1,2 +1,3 @@
 # PQDs_FFT-CNN-Transformer-CrossAttention
 PQDs classification model based on FFT-CNN-Transformer-CrossAttention
+Our research addresses the critical challenge of detecting and classifying complex Power Quality Disturbances (PQDs) in modern power systems, which increasingly utilize intermittent and non-dispatchable renewable energy sources. By integrating the Fast Fourier Transform with advanced neural network models such as Convolutional Neural Networks and Transformers coupled with a Signal-based Cross-Attention mechanism, our study provides a robust solution to improve the accuracy and efficiency of PQD recognition under various noise conditions.
